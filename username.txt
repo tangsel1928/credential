@@ -1,6 +1,4 @@
 admin
 administrator
 webadmin
-admin1
-admin12
-admin123
+superadmin
