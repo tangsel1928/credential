@@ -1,4 +1,5 @@
 admin
+Admin
 administrator
-webadmin
-superadmin
+Administrator
+4dm1n
